@@ -77,19 +77,10 @@ main{
    line-height:1.8;
    margin-bottom:40px;
 }
-.shop-button{
-   display:inline-block;
-   padding:16px 40px;
-   background:#B78A6B;
-   color:white;
-   text-decoration:none;
-   letter-spacing:2px;
-   text-transform:uppercase;
-   border-radius:40px;
-   transition:.3s;
-}
-.shop-button:hover{
-   background:#9F7358;
+.shop-collection {
+    background-color: #FDFBF8;
+    text-align: center;
+    padding: 80px 20px;
 }
 
 
